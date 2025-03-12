@@ -1,0 +1,5 @@
+{
+    "name": "Terraform CI Workflows",
+    "description": "Continuous integration workflow for Terraform projects",
+    "iconName": "terraform.svg"
+}
